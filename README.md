@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Dev 👋
 ### Software Engineer • Full-Stack Systems & Mobile Architect • Hackathon Finalist
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=LifeOfDevD&color=blueviolet&style=flat-square)](https://github.com/LifeOfDevD)
